@@ -35,8 +35,8 @@ node index.js
 
 ## Walkthrough Video
 
-[Link to walkthrough video](#)
+[Link to walkthrough video](https://drive.google.com/file/d/1s-lZf16WMKhNIbXhxF9aFzqmaZQZ1esM/view)
 
 ## Sample
 
-An sample SVG file generated using the application can be found in the `sample` folder.
+A sample SVG file generated using the application can be found in the `sample` folder.
